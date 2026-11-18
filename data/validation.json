@@ -1,0 +1,15 @@
+{
+  "rows": 9850,
+  "shap_points": 3939,
+  "counts": {
+    "TN": 5816,
+    "FP": 126,
+    "FN": 95,
+    "TP": 3813
+  },
+  "nominal_seconds": 1,
+  "source": "현재 업로드한 OHT_XAI_All_Test.csv",
+  "rule": "1-of-4 OR",
+  "sensor_join": "장비·세션·시간 1:1 검증",
+  "shap_feature_values": "원본 파생변수 값 일치 확인"
+}
